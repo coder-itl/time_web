@@ -536,4 +536,8 @@
         run: mvn -B package --file pom.xml
   ```
 
+  |                        `ci/cd run ok`                        |
+  | :----------------------------------------------------------: |
+  | ![image-20220902100122278](C:\Users\coderitl\AppData\Roaming\Typora\typora-user-images\image-20220902100122278.png) |
+  
   
