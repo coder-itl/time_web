@@ -33,7 +33,7 @@ public class TimeController {
 
 
     /**
-     * current business hours
+     * get work time
      *
      * @return
      */
@@ -46,7 +46,7 @@ public class TimeController {
     }
 
     /**
-     * Resetting the opening hours to the default hours
+     * set default hours
      *
      * @return
      */
@@ -57,7 +57,7 @@ public class TimeController {
     }
 
     /**
-     * Setting new hours for a day
+     * Setting new hours
      *
      * @return
      */
@@ -68,7 +68,7 @@ public class TimeController {
     }
 
     /**
-     * Closing a day
+     * today closing
      *
      * @return
      */
